@@ -10,7 +10,7 @@ This project demonstrates **cloud-native design principles**, **serverless autom
 ---
 
 ## 📸 Architecture Diagram  
-![AWS Architecture](./Docs/aws-architecture-dark.png)
+![AWS Architecture](https://github.com/Poojitha123-gp/BillBot-Serverless-bill-automation-bot/blob/main/Billbot%20aws%20architecture.png))
 
 
 ---
