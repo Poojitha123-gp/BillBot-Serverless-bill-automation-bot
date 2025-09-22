@@ -109,10 +109,10 @@ sequenceDiagram
 
 ## 🎥 Demo  
 
-<img src="./billbot uploads" alt="Upload Bill" width="400"/>  
+ 
 *Bill uploaded to S3*  
 
-<img src="./billbotdatabase" alt="Textract Output" width="400"/>  
+
 *Textract output stored in DynamoDB*  
 
 
